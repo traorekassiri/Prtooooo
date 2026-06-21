@@ -1,0 +1,171 @@
+{
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "Portail métallique",
+      "description": "Fabrication haut de gamme avec ornements soudés de sécurité et serrurerie motorisée à Ouagadougou. Assemblage irréprochable.",
+      "category": "PORTAILS",
+      "techniques": ["Soudage SMAW (E7018)", "Meulage de finition", "Pose d'accessoires"],
+      "materials": ["Acier noir forgé", "Profilés creux"],
+      "imageUrl": "https://images.unsplash.com/photo-1508873535684-277a3cbcc4e8?q=80&w=800&auto=format&fit=crop",
+      "date": "Ouagadougou"
+    },
+    {
+      "id": "proj-2",
+      "title": "Charpente métallique",
+      "description": "Montage et assemblage haute contrainte à l'électrode basique pour un projet industriel de grande envergure.",
+      "category": "CHARPENTES",
+      "techniques": ["Soudage SMAW positions PE/PF", "Lecture de plans", "Oxycoupage"],
+      "materials": ["Profilés IPE 300 S355", "Platines acier"],
+      "imageUrl": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?q=80&w=800&auto=format&fit=crop",
+      "date": "Projet industriel"
+    },
+    {
+      "id": "proj-3",
+      "title": "Structure métallique",
+      "description": "Hangar de stockage d'une portée de 24 mètres. Passes de pénétration soignées et contreventements rigides.",
+      "category": "STRUCTURES",
+      "techniques": ["Soudage multi-passes", "Boulonnage structurel", "Vérification théodolite"],
+      "materials": ["Poutrelles HEA 240", "Tôles de goussets S235"],
+      "imageUrl": "https://images.unsplash.com/photo-1581094288338-2314dddb7eed?q=80&w=800&auto=format&fit=crop",
+      "date": "Hangar de stockage"
+    },
+    {
+      "id": "proj-4",
+      "title": "Grille de protection",
+      "description": "Fabrication en série de réseaux de sécurité à maillage serré pour un complexe de bâtiment administratif.",
+      "category": "GRILLES",
+      "techniques": ["Soudage semi-auto MAG/MIG", "Traçage en série", "Ébavurage"],
+      "materials": ["Ronds lisses Ø16", "Fers plats standard"],
+      "imageUrl": "https://images.unsplash.com/photo-1513828583688-c52646db42da?q=80&w=800&auto=format&fit=crop",
+      "date": "Bâtiment administratif"
+    },
+    {
+      "id": "proj-5",
+      "title": "Réparation structure",
+      "description": "Intervention d'urgence sur site en service pour renforcement mécanique suite à dégradation de poutres porteuses.",
+      "category": "RÉPARATIONS",
+      "techniques": ["Séchage thermique", "Soudure SMAW de réparation", "Contrôle ressuage"],
+      "materials": ["Profilés de renfort S355", "Électrodes basiques"],
+      "imageUrl": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?q=80&w=800&auto=format&fit=crop",
+      "date": "Chantier sur site"
+    },
+    {
+      "id": "proj-6",
+      "title": "Escalier métallique",
+      "description": "Escalier industriel à double limon avec marches en tôle larmée antidérapante. Fabrication complète en atelier.",
+      "category": "STRUCTURES",
+      "techniques": ["Pliage de tôle", "Soudage d'angles", "Assemblage mécanique"],
+      "materials": ["Tôle larmée 4/6", "Tubes de structure"],
+      "imageUrl": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?q=80&w=800&auto=format&fit=crop",
+      "date": "Fabrication complète"
+    }
+  ],
+  "diplomas": [
+    {
+      "id": "dip-1",
+      "title": "BQP Construction Métallique",
+      "issuer": "Établissement Certifié",
+      "year": "21/06/2026",
+      "imageUrl": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?q=80&w=800&auto=format&fit=crop",
+      "standard": "Spécialité charpente métallique et serrurerie"
+    },
+    {
+      "id": "dip-2",
+      "title": "Attestation Formation Soudeur 1 800h",
+      "issuer": "Centre Technique National",
+      "year": "2025",
+      "imageUrl": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?q=80&w=800&auto=format&fit=crop",
+      "standard": "Soudage à l'arc SMAW positions PE / PC"
+    },
+    {
+      "id": "dip-3",
+      "title": "Baccalauréat G2 Techniques Quantitatives",
+      "issuer": "Ministère de l'Éducation",
+      "year": "2022",
+      "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=800&auto=format&fit=crop",
+      "standard": "Gestion et applications financières industrielles"
+    },
+    {
+      "id": "dip-4",
+      "title": "Attestation Informatique Bureautique",
+      "issuer": "Institut Supérieur",
+      "year": "2023",
+      "imageUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=800&auto=format&fit=crop",
+      "standard": "Bureautique avancée et chiffrage devis acier"
+    }
+  ],
+  "attestations": [
+    {
+      "id": "att-1",
+      "title": "Attestation de Réussite de Soudeur Multi-procédés",
+      "company": "Eiffage Métal",
+      "description": "Validation interne de compétences d'excellence sur les procédés TIG acier/inox et MAG en positions complexes (plafond, corniche). Respect rigoureux des DMOS et démarches sécurité.",
+      "year": "2024"
+    },
+    {
+      "id": "att-2",
+      "title": "Attestation d'Excellence Sécurité Chantier",
+      "company": "Bouygues Construction",
+      "description": "Félicitations du coordonnateur SPS pour le respect scrupuleux des consignes de sécurité, le port systématique des EPI et l'évaluation correcte des risques liés au soudage en espace confiné.",
+      "year": "2023"
+    }
+  ],
+  "media": [
+    {
+      "id": "med-vd1",
+      "title": "Soudage SMAW - Assemblage structure métallique",
+      "type": "video",
+      "url": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "videoPlatform": "mp4"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "test-1",
+      "name": "Commandant Z.",
+      "company": "Génie Militaire",
+      "role": "",
+      "content": "Joseph est un professionnel sérieux, compétent et rigoureux. Son travail est toujours impeccable.",
+      "rating": 5,
+      "date": "2026-06-21",
+      "approved": true
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg-1",
+      "name": "Michel Dupont",
+      "email": "m.dupont@metalbuilt.fr",
+      "phone": "+33 6 12 34 56 78",
+      "subject": "Proposition de projet de sous-traitance",
+      "message": "Bonjour Monsieur Traoré, nous avons de grands projets de charpentes métalliques prévus en Afrique de l'Ouest. Votre profil de soudeur qualifié nous intéresse grandement pour encadrer une équipe sur site. Parlons-en à votre convenance.",
+      "date": "2026-06-20T10:30:00Z",
+      "read": false
+    }
+  ],
+  "settings": {
+    "name": "TRAORÉ JOSEPH KASSIRI STÉPHANE",
+    "title": "Soudeur Qualifié & Spécialiste en Construction Métallique",
+    "email": "traorejosephinbox@gmail.com",
+    "phone": "+225 07 48 89 23 45",
+    "whatsapp": "2250748892345",
+    "address": "Abidjan, Côte d'Ivoire",
+    "cvUrl": "#",
+    "avatarUrl": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?q=80&w=600&auto=format&fit=crop",
+    "aboutMe": "Soudeur Qualifié et professionnel dévoué de la construction métallique, je cumule plusieurs années d'expérience pratique en atelier et sur de grands chantiers d'infrastructure. Ma spécialité est le soudage haute précision de structures porteuses lourdes et d'éléments de tuyauterie industrielle complexe. Certifié ISO 9606-1, je maîtrise les techniques SMAW, TIG, et MIG-MAG. Mon engagement est guidé par la précision absolue du trait, la pureté mécanique du dépôt métallique et le respect intransigeant des consignes de sécurité industrielle.",
+    "values": [
+      "Précision et Excellence : Des soudures irréprochables validées par ressuage et radio.",
+      "Sécurité Intransigeante : Zéro accident grâce au respect rigoureux des normes et EPI.",
+      "Fiabilité & Ponctualité : Respect des délais de livraison et engagement total sur chantier.",
+      "Esprit d'équipe : Collaboration constructive avec les monteurs, dessinateurs et chefs d’équipe."
+    ],
+    "objectives": "Participer à des projets d'envergure internationale en génie civil et structures métalliques d'infrastructures lourdes, tout en apportant mon expertise technique de haut niveau pour assurer la conformité de chaque soudure aux exigences de sécurité les plus strictes.",
+    "stats": {
+      "experienceYears": 8,
+      "completedProjects": 45,
+      "certificationsCount": 6,
+      "satisfactionRate": 100
+    }
+  }
+}

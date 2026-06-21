@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Space Grotesk", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+
+  /* Elite Choco-Caramel & Soft Cream Palette (Rich Dark Cocoa Premium Theme) */
+  --color-slate-50: #fefcfb;
+  --color-slate-100: #f7ede2; /* warm creamy latte white */
+  --color-slate-200: #eddcd2; /* soft warm vanilla */
+  --color-slate-300: #ddb892; /* golden caramel text */
+  --color-slate-400: #b08968; /* beautiful milk-chocolate brown */
+  --color-slate-500: #7f5539; /* smooth cocoa accent brown */
+  --color-slate-600: #9c6644;
+  --color-slate-700: #3d251e; /* deep roasted coffee */
+  --color-slate-800: #3b2824; /* warm espresso border line */
+  --color-slate-850: #2c1a16; /* sweet dark truffle container hover */
+  --color-slate-900: #1f1310; /* rich dark roasted cocoa card block */
+  --color-slate-950: #140b08; /* deepest satin chocolate base background */
+}
+
+@layer utilities {
+  .glow-orange {
+    text-shadow: 0 0 15px rgba(249, 115, 22, 0.35);
+  }
+  .glow-box-orange {
+    box-shadow: 0 0 30px rgba(249, 115, 22, 0.12);
+  }
+}
+
+/* Custom Scrollbar for chocolate luxury theme */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #140b08;
+}
+::-webkit-scrollbar-thumb {
+  background: #3b2824;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #ea580c;
+}
+
+html {
+  scroll-behavior: smooth;
+  background-color: #140b08;
+}
+
+body {
+  color: #ede2dc;
+  font-family: var(--font-sans);
+  line-height: 1.75; /* Relaxed leading for superb readability and high-end feel */
+  letter-spacing: 0.015em; /* Sophisticated modern letter-spacing */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Elegant line-height adjustments for headings to keep them beautifully compact yet highly legible */
+h1, h2, h3, h4 {
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+}
+
+/* Paragraph spacing helper to prevent congested blocks of text */
+p {
+  line-height: 1.75;
+}
+

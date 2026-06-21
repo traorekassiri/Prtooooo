@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Stéphane Traoré - Portfolio Soudeur Premium",
+  "description": "Portfolio web d\u0027exception et espace d\u0027administration pour TRAORÉ JOSEPH KASSIRI STÉPHANE, Soudeur Qualifié en Construction Métallique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
